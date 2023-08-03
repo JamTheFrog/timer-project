@@ -1,5 +1,5 @@
 module.exports.getSignUp = (req, res) => {
-    res.redirect("/signup")
+    res.redirect("ok")
 }
 
 module.exports.postSignUp = (req, res) => {
